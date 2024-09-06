@@ -2,7 +2,7 @@
 filter urls and output only https &amp; http
 
 # install
-git clone 
+git clone
 chmod +x urlfilt.sh
 
 usage
