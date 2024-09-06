@@ -6,4 +6,4 @@ filter urls and output only https &amp; http
 2. chmod +x urlfilt.sh
 
 usage
-cat url.txt | ./urlfilt.sh
+cat url.txt | ./urlfilt.sh > http-urls-only.txt
